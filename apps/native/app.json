@@ -1,13 +1,13 @@
 {
   "expo": {
-    "scheme": "cashory-demo",
+    "scheme": "cashNova",
     "userInterfaceStyle": "automatic",
     "orientation": "default",
     "web": {
       "bundler": "metro"
     },
-    "name": "Cashory Demo",
-    "slug": "Cashory-Demo",
+    "name": "CashNova",
+    "slug": "CashNova",
     "plugins": [
       "expo-font",
       "expo-image",
